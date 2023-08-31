@@ -6,7 +6,7 @@
 
 <hr/>
 <h3>Do try implementing it as it will be a nice start for the CI/CD journey of yours</h3> 
-<h3>If you do like it consider giving it a ⭐ ; So if I make anychanegs in the Repo you will be aware of it !! </h3> 
+<h3>If you do like it consider giving it a ⭐ ; So if I make any changes in the Repo you will be aware of it !! </h3> 
 
 
 ![diagram-export-30_08_2023, 12_54_48](https://github.com/adityadhopade/Deploy-Website-S3-CodePipeline/assets/48392204/884648cf-ca2b-4a8d-80e7-804eee5f126f)
